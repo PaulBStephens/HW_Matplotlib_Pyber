@@ -1,0 +1,25 @@
+Pyber Analysis
+
+Attached are charts created from our company's record-set of rides. The record-set contains information about drivers and rides, including details like city, driver count, individual fares, and city type.  I created charts that illustrate some trends in the data.  
+
+First shown is a bubble plot showing the relationship between four key variables:
+- Average Fare ($) Per City
+- Total Number of Rides Per City
+- Total Number of Drivers Per City
+- City Type (Urban, Suburban, Rural)
+
+In addition, I produced the following three pie charts:
+- % of Total Fares by City Type
+- % of Total Rides by City Type
+- % of Total Drivers by City Type
+
+Key observations:
+
+Considering urban vs suburban vs rural city types (areas), urban areas tended to have the most drivers per city and most rides per city. Suburban areas had less drivers and rides per city than urban areas, but more so than for rural areas. In short, more urban shows more drivers and more rides.  This should make intuitive sense since higher population densities should mean more customer demand and a higher supply of drivers.  
+
+There is a tendency for higher average fares for lower ride totals and lower driver counts.  The tendency does not appear within each city type but does appear between city types.  We see that rural areas tended to have somewhat higher average fares than suburban areas, and more than urban areas.  Importantly, while rural areas tended to have the highest average fares, rural areas also tended to have the greatest variability in average fares.  
+
+From the first two pie charts we can see that most of our fares and most of the rides come from urban areas.  We also see that the distribution of fares by city type and the distribution of rides by city type is roughly similar.  On the final pie chart, we see that the total number of drivers in suburban areas and more particularly for urban areas is disproportionately low.  
+
+My suggestion from analysis of the data is to employ a better market differentiation strategy by increasing efforts towards the number of drivers in rural and suburban areas.  Rural areas tend to be the least served and receive the highest average fares.  More importantly, I also suggest we expand in suburban areas as such areas have moderately high average fares but also a more moderate amount of variability of fares.   
+
